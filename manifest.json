@@ -1,0 +1,21 @@
+{
+  "name": "نور القرآن",
+  "short_name": "نور القرآن",
+  "description": "رفيقك اليومي مع القرآن والذكر — يعمل بدون إنترنت",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B3954",
+  "theme_color": "#0B3954",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "./moon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "./"
+}
